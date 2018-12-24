@@ -39,3 +39,6 @@ D:\ISEProject-V2\ISEProject-V2\bin\Debug\ISEProject-V2.pdb
 D:\ISEProject-V2\ISEProject-V2\bin\Debug\Bunifu_UI_v1.5.3.dll
 D:\ISEProject-V2\ISEProject-V2\obj\Debug\ISEProject-V2.exe
 D:\ISEProject-V2\ISEProject-V2\obj\Debug\ISEProject-V2.pdb
+C:\Users\saim\Desktop\ISEProject-V2\ISEProject-V2\bin\Debug\ISEProject-V2.exe.config
+C:\Users\saim\Desktop\ISEProject-V2\ISEProject-V2\obj\Debug\ISEProject-V2.exe
+C:\Users\saim\Desktop\ISEProject-V2\ISEProject-V2\obj\Debug\ISEProject-V2.pdb

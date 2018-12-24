@@ -19,8 +19,6 @@ namespace ISEProject_V2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new GODashboard());
-            //Application.Run(new formSignIn());
-          // Application.Run(new SupplierDashBoard());
         }
     }
 }
